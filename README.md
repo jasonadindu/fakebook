@@ -4,7 +4,7 @@
 Hello, Fakebook fans
 
 
-### Subcribe
+### Subscribe
 Click [here](https://jasonadindu.github.io/fakebook/) to Subscribe
 
 <br />
